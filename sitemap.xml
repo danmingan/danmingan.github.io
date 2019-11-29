@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://danmingan.github.io/publication/</loc>
+  </url>
+  
+  <url>
     <loc>http://danmingan.github.io/authors/admin/</loc>
   </url>
   
@@ -27,7 +31,7 @@
   </url>
   
   <url>
-    <loc>http://danmingan.github.io/publication/</loc>
+    <loc>http://danmingan.github.io/publication/_index1/</loc>
   </url>
   
   <url>
