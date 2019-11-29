@@ -2,8 +2,8 @@
   "name": "Danming An",
   "short_name": "Danming An",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#b53b26",
+  "background_color": "#b53b26",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
