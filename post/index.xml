@@ -5,12 +5,20 @@
     <link>http://danmingan.github.io/post/</link>
       <atom:link href="http://danmingan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2019 16:58:30 -0600</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>http://danmingan.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Test</title>
+      <link>http://danmingan.github.io/post/test/</link>
+      <pubDate>Wed, 25 Dec 2019 16:58:30 -0600</pubDate>
+      <guid>http://danmingan.github.io/post/test/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
