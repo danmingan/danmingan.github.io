@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://danmingan.github.io/authors/admin/</loc>
+    <loc>http://danmingan.github.io/authors/danming-an/</loc>
     <lastmod>2020-01-01T04:02:31-05:00</lastmod>
   </url>
   
@@ -75,6 +75,11 @@
   <url>
     <loc>http://danmingan.github.io/post/test/</loc>
     <lastmod>2019-12-25T16:58:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/admin/</loc>
+    <lastmod>2019-01-25T04:02:21-05:00</lastmod>
   </url>
   
   <url>
