@@ -5,12 +5,20 @@
     <link>http://danmingan.github.io/</link>
       <atom:link href="http://danmingan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Danming An</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Dec 2019 16:58:30 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 04:02:31 -0500</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
       <title>Danming An</title>
       <link>http://danmingan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Co-occurrence of and cross-informant agreement on shyness, unsociability, and social avoidance during early adolescence</title>
+      <link>http://danmingan.github.io/publication/2020sode/</link>
+      <pubDate>Wed, 01 Jan 2020 04:02:31 -0500</pubDate>
+      <guid>http://danmingan.github.io/publication/2020sode/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Test</title>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
+      <title>Do cultural orientations moderate the relations between Chinese adolescents’ shyness and depressive symptoms? It depends on their academic achievement</title>
+      <link>http://danmingan.github.io/publication/2019sode/</link>
+      <pubDate>Fri, 25 Jan 2019 04:02:21 -0500</pubDate>
+      <guid>http://danmingan.github.io/publication/2019sode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>http://danmingan.github.io/teaching/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://danmingan.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An exploratory study of Eastern Ugandan adolescents’ descriptions of social withdrawal</title>
+      <link>http://danmingan.github.io/publication/2018joa/</link>
+      <pubDate>Sat, 30 Jun 2018 04:00:47 -0500</pubDate>
+      <guid>http://danmingan.github.io/publication/2018joa/</guid>
       <description></description>
     </item>
     

@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Danming An</title>
-    <link>http://danmingan.github.io/publication_types/2/</link>
-      <atom:link href="http://danmingan.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 04:02:31 -0500</lastBuildDate>
+    <title>culture | Danming An</title>
+    <link>http://danmingan.github.io/tags/culture/</link>
+      <atom:link href="http://danmingan.github.io/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <description>culture</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jan 2019 04:02:21 -0500</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
-      <title>2</title>
-      <link>http://danmingan.github.io/publication_types/2/</link>
+      <title>culture</title>
+      <link>http://danmingan.github.io/tags/culture/</link>
     </image>
-    
-    <item>
-      <title>Co-occurrence of and cross-informant agreement on shyness, unsociability, and social avoidance during early adolescence</title>
-      <link>http://danmingan.github.io/publication/2020sode/</link>
-      <pubDate>Wed, 01 Jan 2020 04:02:31 -0500</pubDate>
-      <guid>http://danmingan.github.io/publication/2020sode/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Do cultural orientations moderate the relations between Chinese adolescents’ shyness and depressive symptoms? It depends on their academic achievement</title>
@@ -41,14 +33,6 @@
       <link>http://danmingan.github.io/publication/2018pds/</link>
       <pubDate>Thu, 01 Mar 2018 03:43:55 -0500</pubDate>
       <guid>http://danmingan.github.io/publication/2018pds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Early adolescents’ unique perspectives of maternal and paternal rejection: Examining their across-dyad generalizability and relations with adjustment 1 year later</title>
-      <link>http://danmingan.github.io/publication/2016joyo/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://danmingan.github.io/publication/2016joyo/</guid>
       <description></description>
     </item>
     
