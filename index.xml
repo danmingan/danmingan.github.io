@@ -5,12 +5,20 @@
     <link>http://danmingan.github.io/</link>
       <atom:link href="http://danmingan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Danming An</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 04:02:31 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 05:28:13 -0500</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
       <title>Danming An</title>
       <link>http://danmingan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Shyness in school</title>
+      <link>http://danmingan.github.io/publication/shyness-chapter/</link>
+      <pubDate>Mon, 25 Jul 2022 05:28:13 -0500</pubDate>
+      <guid>http://danmingan.github.io/publication/shyness-chapter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Co-occurrence of and cross-informant agreement on shyness, unsociability, and social avoidance during early adolescence</title>
