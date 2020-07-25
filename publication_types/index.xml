@@ -5,7 +5,7 @@
     <link>http://danmingan.github.io/publication_types/</link>
       <atom:link href="http://danmingan.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jul 2022 05:28:13 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 04:02:31 -0500</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>6</title>
-      <link>http://danmingan.github.io/publication_types/6/</link>
-      <pubDate>Mon, 25 Jul 2022 05:28:13 -0500</pubDate>
-      <guid>http://danmingan.github.io/publication_types/6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>2</title>
       <link>http://danmingan.github.io/publication_types/2/</link>
       <pubDate>Wed, 01 Jan 2020 04:02:31 -0500</pubDate>
       <guid>http://danmingan.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>http://danmingan.github.io/publication_types/6/</link>
+      <pubDate>Thu, 25 Jul 2019 05:28:13 -0500</pubDate>
+      <guid>http://danmingan.github.io/publication_types/6/</guid>
       <description></description>
     </item>
     
