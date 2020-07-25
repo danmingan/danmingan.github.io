@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://danmingan.github.io/publication/publications/</loc>
+  </url>
+  
+  <url>
     <loc>http://danmingan.github.io/</loc>
     <lastmod>2019-12-25T16:58:30-06:00</lastmod>
   </url>
@@ -24,10 +28,82 @@
   
   <url>
     <loc>http://danmingan.github.io/authors/admin/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/publication_types/2/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/alissa-mahler/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/ann-t-skinner/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://danmingan.github.io/authors/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/diane-l-putnick/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/publication/2016joyo/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/jennifer-e-lansford/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/justin-jager/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/kenneth-a-dodge/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/kirby-deater-deckard/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/authors/marc-h-bornstein/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/tags/parenting/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/publication_types/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/publication/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://danmingan.github.io/tags/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -35,19 +111,7 @@
   </url>
   
   <url>
-    <loc>http://danmingan.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>http://danmingan.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>http://danmingan.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>http://danmingan.github.io/tags/</loc>
   </url>
   
 </urlset>
