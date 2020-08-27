@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grazyna Kochanska | Danming An</title>
+    <link>http://danmingan.github.io/authors/grazyna-kochanska/</link>
+      <atom:link href="http://danmingan.github.io/authors/grazyna-kochanska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grazyna Kochanska</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2020 00:56:58 -0500</lastBuildDate>
+    <image>
+      <url>http://danmingan.github.io/img/icon-192.png</url>
+      <title>Grazyna Kochanska</title>
+      <link>http://danmingan.github.io/authors/grazyna-kochanska/</link>
+    </image>
+    
+    <item>
+      <title>Parents&#39; Early Representations of Their Children Moderate Socialization Processes: Evidence from Two Studies</title>
+      <link>http://danmingan.github.io/publication/2020dpp_b/</link>
+      <pubDate>Sat, 08 Aug 2020 00:56:58 -0500</pubDate>
+      <guid>http://danmingan.github.io/publication/2020dpp_b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Synergies between Reactive and Active Inhibitory Systems of Temperament in the Development of Children’s Disruptive Behavior: Two Longitudinal Studies</title>
+      <link>http://danmingan.github.io/publication/2020dpp_a/</link>
+      <pubDate>Sat, 08 Aug 2020 00:56:23 -0500</pubDate>
+      <guid>http://danmingan.github.io/publication/2020dpp_a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
