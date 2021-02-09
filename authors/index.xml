@@ -5,7 +5,7 @@
     <link>http://danmingan.github.io/authors/</link>
       <atom:link href="http://danmingan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2020 00:56:58 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2021 21:37:00 -0600</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,10 +15,58 @@
     <item>
       <title></title>
       <link>http://danmingan.github.io/authors/admin/</link>
-      <pubDate>Sat, 08 Aug 2020 00:56:58 -0500</pubDate>
+      <pubDate>Mon, 08 Feb 2021 21:37:00 -0600</pubDate>
       <guid>http://danmingan.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Danming An is a postdoctoral researcher in the Department of Psychological and Brain Sciences, University of Iowa, with a primary research interest in socio-emotional development from infancy to adolescence. Her research examines the effects of context (e.g., culture, parenting, family dynamics, peer relationships) and early temperament on children’s socio-emotional development and mental health. She is also interested in advancing the measurement methodology of children’s and adolescents&amp;rsquo; social and psychological adjustment, including developing culture- and context-appropriate measurement tools, as well as understanding the implications of informant discrepancies and situational variations in socio-emotional measurements.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Emily Adams</title>
+      <link>http://danmingan.github.io/authors/emily-adams/</link>
+      <pubDate>Mon, 08 Feb 2021 21:37:00 -0600</pubDate>
+      <guid>http://danmingan.github.io/authors/emily-adams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eunjung Kim</title>
+      <link>http://danmingan.github.io/authors/eunjung-kim/</link>
+      <pubDate>Mon, 08 Feb 2021 21:37:00 -0600</pubDate>
+      <guid>http://danmingan.github.io/authors/eunjung-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flora Farago</title>
+      <link>http://danmingan.github.io/authors/flora-farago/</link>
+      <pubDate>Mon, 08 Feb 2021 21:37:00 -0600</pubDate>
+      <guid>http://danmingan.github.io/authors/flora-farago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingyi Xu</title>
+      <link>http://danmingan.github.io/authors/jingyi-xu/</link>
+      <pubDate>Mon, 08 Feb 2021 21:37:00 -0600</pubDate>
+      <guid>http://danmingan.github.io/authors/jingyi-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linlin Zhang</title>
+      <link>http://danmingan.github.io/authors/linlin-zhang/</link>
+      <pubDate>Mon, 08 Feb 2021 21:37:00 -0600</pubDate>
+      <guid>http://danmingan.github.io/authors/linlin-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalie D. Eggum-Wilkens</title>
+      <link>http://danmingan.github.io/authors/natalie-d.-eggum-wilkens/</link>
+      <pubDate>Mon, 08 Feb 2021 21:37:00 -0600</pubDate>
+      <guid>http://danmingan.github.io/authors/natalie-d.-eggum-wilkens/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -26,14 +74,6 @@
       <link>http://danmingan.github.io/authors/grazyna-kochanska/</link>
       <pubDate>Sat, 08 Aug 2020 00:56:58 -0500</pubDate>
       <guid>http://danmingan.github.io/authors/grazyna-kochanska/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linlin Zhang</title>
-      <link>http://danmingan.github.io/authors/linlin-zhang/</link>
-      <pubDate>Wed, 01 Jan 2020 04:02:31 -0500</pubDate>
-      <guid>http://danmingan.github.io/authors/linlin-zhang/</guid>
       <description></description>
     </item>
     
