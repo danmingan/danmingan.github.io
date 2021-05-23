@@ -5,12 +5,44 @@
     <link>http://danmingan.github.io/tags/</link>
       <atom:link href="http://danmingan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 22:07:08 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 May 2021 00:19:42 -0500</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://danmingan.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>behavioral inhibition</title>
+      <link>http://danmingan.github.io/tags/behavioral-inhibition/</link>
+      <pubDate>Sun, 23 May 2021 00:19:42 -0500</pubDate>
+      <guid>http://danmingan.github.io/tags/behavioral-inhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social anxiety</title>
+      <link>http://danmingan.github.io/tags/social-anxiety/</link>
+      <pubDate>Sun, 23 May 2021 00:19:42 -0500</pubDate>
+      <guid>http://danmingan.github.io/tags/social-anxiety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social information processing</title>
+      <link>http://danmingan.github.io/tags/social-information-processing/</link>
+      <pubDate>Sun, 23 May 2021 00:19:42 -0500</pubDate>
+      <guid>http://danmingan.github.io/tags/social-information-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory of mind</title>
+      <link>http://danmingan.github.io/tags/theory-of-mind/</link>
+      <pubDate>Sun, 23 May 2021 00:19:42 -0500</pubDate>
+      <guid>http://danmingan.github.io/tags/theory-of-mind/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>academic achievement</title>
@@ -153,14 +185,6 @@
       <link>http://danmingan.github.io/tags/temperament/</link>
       <pubDate>Sat, 08 Aug 2020 00:56:58 -0500</pubDate>
       <guid>http://danmingan.github.io/tags/temperament/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>behavioral inhibition</title>
-      <link>http://danmingan.github.io/tags/behavioral-inhibition/</link>
-      <pubDate>Sat, 08 Aug 2020 00:56:23 -0500</pubDate>
-      <guid>http://danmingan.github.io/tags/behavioral-inhibition/</guid>
       <description></description>
     </item>
     
