@@ -5,12 +5,36 @@
     <link>http://danmingan.github.io/tags/</link>
       <atom:link href="http://danmingan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 May 2021 00:19:42 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:23:22 -0500</lastBuildDate>
     <image>
       <url>http://danmingan.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>http://danmingan.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>externalizing problems</title>
+      <link>http://danmingan.github.io/tags/externalizing-problems/</link>
+      <pubDate>Tue, 06 Jul 2021 00:23:22 -0500</pubDate>
+      <guid>http://danmingan.github.io/tags/externalizing-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social avoidance</title>
+      <link>http://danmingan.github.io/tags/social-avoidance/</link>
+      <pubDate>Tue, 06 Jul 2021 00:23:22 -0500</pubDate>
+      <guid>http://danmingan.github.io/tags/social-avoidance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social withdrawal</title>
+      <link>http://danmingan.github.io/tags/social-withdrawal/</link>
+      <pubDate>Tue, 06 Jul 2021 00:23:22 -0500</pubDate>
+      <guid>http://danmingan.github.io/tags/social-withdrawal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>behavioral inhibition</title>
@@ -201,14 +225,6 @@
       <link>http://danmingan.github.io/tags/measurement/</link>
       <pubDate>Wed, 01 Jan 2020 04:02:31 -0500</pubDate>
       <guid>http://danmingan.github.io/tags/measurement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social withdrawal</title>
-      <link>http://danmingan.github.io/tags/social-withdrawal/</link>
-      <pubDate>Sat, 30 Jun 2018 04:00:47 -0500</pubDate>
-      <guid>http://danmingan.github.io/tags/social-withdrawal/</guid>
       <description></description>
     </item>
     
